@@ -1,5 +1,6 @@
 FROM ruby:2.3.1
-RUN apt-get update -qq && apt-get install -y build-essential libpq-dev nodejs
+RUN apt-get update -qq && apt-get install -y build-essential libpq-dev nodejs npm
+RUN ln -s /usr/bin/nodejs /usr/bin/node
 RUN mkdir /learn_react_on_rails
 WORKDIR /learn_react_on_rails
 ADD Gemfile /learn_react_on_rails/Gemfile
