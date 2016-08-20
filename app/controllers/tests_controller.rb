@@ -4,6 +4,7 @@ class TestsController < ApplicationController
   # GET /tests
   # GET /tests.json
   def index
+    raise
     @tests = Test.all
   end
 
