@@ -1,5 +1,5 @@
 class UsersController < ApplicationController
   def show
-    @user = { name: 'test' }
+    @user = { name: params[:name] || 'ゲストさん' }
   end
 end
