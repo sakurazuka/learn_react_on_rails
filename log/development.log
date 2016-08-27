@@ -1770,3 +1770,1662 @@ Processing by Rails::WelcomeController#index as HTML
 Completed 200 OK in 14ms (Views: 9.3ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for 192.168.99.1 at 2016-08-20 03:58:42 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.8ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb (11.7ms)
+Completed 200 OK in 52ms (Views: 28.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.99.1 at 2016-08-20 03:58:44 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb (5.9ms)
+Completed 200 OK in 18ms (Views: 12.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tests" for 192.168.99.1 at 2016-08-20 03:58:47 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by TestsController#index as HTML
+  Rendering tests/index.html.erb within layouts/application
+  [1m[36mTest Load (0.8ms)[0m  [1m[34mSELECT "tests".* FROM "tests"[0m
+  Rendered tests/index.html.erb within layouts/application (19.0ms)
+Completed 200 OK in 732ms (Views: 687.9ms | ActiveRecord: 2.1ms)
+
+
+Started GET "/tests" for 192.168.99.1 at 2016-08-20 03:58:48 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by TestsController#index as HTML
+  Rendering tests/index.html.erb within layouts/application
+  [1m[36mTest Load (1.8ms)[0m  [1m[34mSELECT "tests".* FROM "tests"[0m
+  Rendered tests/index.html.erb within layouts/application (8.8ms)
+Completed 200 OK in 213ms (Views: 185.8ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/tests" for 192.168.99.1 at 2016-08-20 03:58:48 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by TestsController#index as HTML
+  Rendering tests/index.html.erb within layouts/application
+  [1m[36mTest Load (0.4ms)[0m  [1m[34mSELECT "tests".* FROM "tests"[0m
+  Rendered tests/index.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 198ms (Views: 182.0ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/tests" for 192.168.99.1 at 2016-08-20 04:02:04 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by TestsController#index as HTML
+  Rendering tests/index.html.erb within layouts/application
+  [1m[36mTest Load (0.5ms)[0m  [1m[34mSELECT "tests".* FROM "tests"[0m
+  Rendered tests/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 257ms (Views: 230.3ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/tests" for 192.168.99.1 at 2016-08-20 04:02:04 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by TestsController#index as HTML
+  Rendering tests/index.html.erb within layouts/application
+  [1m[36mTest Load (21.1ms)[0m  [1m[34mSELECT "tests".* FROM "tests"[0m
+  Rendered tests/index.html.erb within layouts/application (41.5ms)
+Completed 200 OK in 429ms (Views: 328.3ms | ActiveRecord: 21.1ms)
+
+
+Started GET "/" for 192.168.99.1 at 2016-08-20 04:23:22 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.7ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb (10.9ms)
+Completed 200 OK in 64ms (Views: 34.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.99.1 at 2016-08-20 04:23:24 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb (8.4ms)
+Completed 200 OK in 38ms (Views: 23.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.99.1 at 2016-08-20 04:23:24 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb (5.3ms)
+Completed 200 OK in 15ms (Views: 10.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.99.1 at 2016-08-20 06:10:24 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (4.6ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb (11.1ms)
+Completed 200 OK in 71ms (Views: 35.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.99.1 at 2016-08-20 06:10:26 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb (5.2ms)
+Completed 200 OK in 19ms (Views: 11.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tests" for 192.168.99.1 at 2016-08-20 06:10:29 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by TestsController#index as HTML
+  Rendering tests/index.html.erb within layouts/application
+  [1m[36mTest Load (2.2ms)[0m  [1m[34mSELECT "tests".* FROM "tests"[0m
+  Rendered tests/index.html.erb within layouts/application (110.7ms)
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-6ibcgz" -
+Completed 500  in 2269ms (ActiveRecord: 4.1ms)
+
+
+  
+ActionView::Template::Error (Error while running `/learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-6ibcgz" -`:
+
+/usr/bin/env: node: No such file or directory
+):
+    4:     <title>LearnReactOnRails</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:   </head>
+   10: 
+  
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__4301202338929801758_47422643348380'
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (7.2ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.3ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (62.1ms)
+Started GET "/tests" for 192.168.99.1 at 2016-08-20 06:10:32 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by TestsController#index as HTML
+  Rendering tests/index.html.erb within layouts/application
+  [1m[36mTest Load (0.8ms)[0m  [1m[34mSELECT "tests".* FROM "tests"[0m
+  Rendered tests/index.html.erb within layouts/application (5.8ms)
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1x3knur" -
+Completed 500  in 341ms (ActiveRecord: 0.8ms)
+
+
+  
+ActionView::Template::Error (Error while running `/learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1x3knur" -`:
+
+/usr/bin/env: node: No such file or directory
+):
+    4:     <title>LearnReactOnRails</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:   </head>
+   10: 
+  
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__4301202338929801758_70200055192260'
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (8.2ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.2ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (58.9ms)
+Started GET "/tests" for 192.168.99.1 at 2016-08-20 06:10:33 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by TestsController#index as HTML
+  Rendering tests/index.html.erb within layouts/application
+  [1m[36mTest Load (0.4ms)[0m  [1m[34mSELECT "tests".* FROM "tests"[0m
+  Rendered tests/index.html.erb within layouts/application (6.1ms)
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1uq4lwr" -
+Completed 500  in 558ms (ActiveRecord: 0.4ms)
+
+
+  
+ActionView::Template::Error (Error while running `/learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1uq4lwr" -`:
+
+/usr/bin/env: node: No such file or directory
+):
+    4:     <title>LearnReactOnRails</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:   </head>
+   10: 
+  
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__4301202338929801758_70200039609400'
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (6.5ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.2ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (48.1ms)
+Started GET "/users" for 192.168.99.1 at 2016-08-20 06:11:22 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/users"):
+  
+actionpack (5.0.0) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+rack-contrib (1.2.0) lib/rack/contrib/response_headers.rb:17:in `call'
+meta_request (0.4.0) lib/meta_request/middlewares/headers.rb:16:in `call'
+web-console (3.3.1) lib/web_console/middleware.rb:131:in `call_app'
+web-console (3.3.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.3.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.3.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.0) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `block in tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `tagged'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.1.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.0) lib/rails/engine.rb:522:in `call'
+puma (3.6.0) lib/puma/configuration.rb:225:in `call'
+puma (3.6.0) lib/puma/server.rb:578:in `handle_request'
+puma (3.6.0) lib/puma/server.rb:415:in `process_client'
+puma (3.6.0) lib/puma/server.rb:275:in `block in run'
+puma (3.6.0) lib/puma/thread_pool.rb:116:in `block in spawn_thread'
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.5ms)
+  Rendered collection of /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb [9 times] (10.2ms)
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (47.0ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.8ms)
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (107.6ms)
+Started GET "/users" for 192.168.99.1 at 2016-08-20 06:11:23 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/users"):
+  
+actionpack (5.0.0) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+rack-contrib (1.2.0) lib/rack/contrib/response_headers.rb:17:in `call'
+meta_request (0.4.0) lib/meta_request/middlewares/headers.rb:16:in `call'
+web-console (3.3.1) lib/web_console/middleware.rb:131:in `call_app'
+web-console (3.3.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.3.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.3.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.0) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `block in tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `tagged'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.1.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.0) lib/rails/engine.rb:522:in `call'
+puma (3.6.0) lib/puma/configuration.rb:225:in `call'
+puma (3.6.0) lib/puma/server.rb:578:in `handle_request'
+puma (3.6.0) lib/puma/server.rb:415:in `process_client'
+puma (3.6.0) lib/puma/server.rb:275:in `block in run'
+puma (3.6.0) lib/puma/thread_pool.rb:116:in `block in spawn_thread'
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.8ms)
+  Rendered collection of /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb [9 times] (5.5ms)
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.5ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.3ms)
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (73.5ms)
+Started GET "/users" for 192.168.99.1 at 2016-08-20 06:11:23 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/users"):
+  
+actionpack (5.0.0) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+rack-contrib (1.2.0) lib/rack/contrib/response_headers.rb:17:in `call'
+meta_request (0.4.0) lib/meta_request/middlewares/headers.rb:16:in `call'
+web-console (3.3.1) lib/web_console/middleware.rb:131:in `call_app'
+web-console (3.3.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.3.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.3.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.0) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `block in tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `tagged'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.1.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.0) lib/rails/engine.rb:522:in `call'
+puma (3.6.0) lib/puma/configuration.rb:225:in `call'
+puma (3.6.0) lib/puma/server.rb:578:in `handle_request'
+puma (3.6.0) lib/puma/server.rb:415:in `process_client'
+puma (3.6.0) lib/puma/server.rb:275:in `block in run'
+puma (3.6.0) lib/puma/thread_pool.rb:116:in `block in spawn_thread'
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.9ms)
+  Rendered collection of /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb [9 times] (3.2ms)
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.2ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.4ms)
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (54.4ms)
+Started GET "/users/show" for 192.168.99.1 at 2016-08-20 06:11:37 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"show"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (1.1ms)
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-103o53q" -
+Completed 500  in 312ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Error while running `/learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-103o53q" -`:
+
+/usr/bin/env: node: No such file or directory
+):
+    4:     <title>LearnReactOnRails</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:   </head>
+   10: 
+  
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__4301202338929801758_70200103233360'
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (7.2ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.4ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (47.7ms)
+Started GET "/users/show" for 192.168.99.1 at 2016-08-20 06:11:38 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"show"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.6ms)
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1wub6e2" -
+Completed 500  in 329ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Error while running `/learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1wub6e2" -`:
+
+/usr/bin/env: node: No such file or directory
+):
+    4:     <title>LearnReactOnRails</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:   </head>
+   10: 
+  
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__4301202338929801758_47422642867360'
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (12.7ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.7ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (48.4ms)
+Started GET "/users/show" for 192.168.99.1 at 2016-08-20 06:11:39 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"show"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (1.1ms)
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-8zelno" -
+Completed 500  in 355ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Error while running `/learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-8zelno" -`:
+
+/usr/bin/env: node: No such file or directory
+):
+    4:     <title>LearnReactOnRails</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:   </head>
+   10: 
+  
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__4301202338929801758_70200059805900'
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (6.8ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.6ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (46.1ms)
+Started GET "/" for 192.168.99.1 at 2016-08-20 06:57:44 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (4.2ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb (10.5ms)
+Completed 200 OK in 68ms (Views: 37.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.99.1 at 2016-08-20 06:57:46 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb (3.4ms)
+Completed 200 OK in 19ms (Views: 10.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.99.1 at 2016-08-20 06:57:46 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb (3.7ms)
+Completed 200 OK in 25ms (Views: 7.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tests" for 192.168.99.1 at 2016-08-20 06:57:50 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by TestsController#index as HTML
+  Rendering tests/index.html.erb within layouts/application
+  [1m[36mTest Load (3.1ms)[0m  [1m[34mSELECT "tests".* FROM "tests"[0m
+  Rendered tests/index.html.erb within layouts/application (23.9ms)
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1prn7n" -
+Started GET "/tests" for 192.168.99.1 at 2016-08-20 06:59:10 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by TestsController#index as HTML
+  Rendering tests/index.html.erb within layouts/application
+  [1m[36mTest Load (1.7ms)[0m  [1m[34mSELECT "tests".* FROM "tests"[0m
+  Rendered tests/index.html.erb within layouts/application (7.4ms)
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-okqlcn" -
+Completed 500  in 93347ms (ActiveRecord: 5.5ms)
+
+
+  
+ActionView::Template::Error (Error while running `/learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1prn7n" -`:
+
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: Cannot find module 'react-dom' from '/learn_react_on_rails/app/assets/javascripts'
+    at /learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:46:17
+    at process (/learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:173:43)
+    at ondir (/learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:188:17)
+    at load (/learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:69:43)
+    at onex (/learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:92:31)
+    at /learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:22:47
+    at Object.oncomplete (fs.js:107:15)
+):
+    4:     <title>LearnReactOnRails</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:   </head>
+   10: 
+  
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__4196298436055572035_47093318993900'
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (73.7ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (10.7ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (216.9ms)
+Started GET "/users/show" for 192.168.99.1 at 2016-08-20 06:59:46 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Completed 500  in 89536ms (ActiveRecord: 1.7ms)
+
+
+  
+ActionView::Template::Error (Error while running `/learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-okqlcn" -`:
+
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: Cannot find module 'react-dom' from '/learn_react_on_rails/app/assets/javascripts'
+    at /learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:46:17
+    at process (/learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:173:43)
+    at ondir (/learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:188:17)
+    at load (/learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:69:43)
+    at onex (/learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:92:31)
+    at /learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:22:47
+    at Object.oncomplete (fs.js:107:15)
+):
+    4:     <title>LearnReactOnRails</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:   </head>
+   10: 
+  
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__4196298436055572035_70188288740480'
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (8.2ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.9ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (56.8ms)
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"show"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.9ms)
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1toyjji" -
+Started GET "/users/show" for 192.168.99.1 at 2016-08-20 07:01:19 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"show"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.8ms)
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-14qvj04" -
+Completed 500  in 105164ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Error while running `/learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1toyjji" -`:
+
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: Cannot find module 'react-dom' from '/learn_react_on_rails/app/assets/javascripts'
+    at /learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:46:17
+    at process (/learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:173:43)
+    at ondir (/learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:188:17)
+    at load (/learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:69:43)
+    at onex (/learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:92:31)
+    at /learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:22:47
+    at Object.oncomplete (fs.js:107:15)
+):
+    4:     <title>LearnReactOnRails</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:   </head>
+   10: 
+  
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__4196298436055572035_70188225800660'
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (10.5ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.6ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.8ms)
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (68.4ms)
+Completed 500  in 102205ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Error while running `/learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-14qvj04" -`:
+
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: Cannot find module 'react-dom' from '/learn_react_on_rails/app/assets/javascripts'
+    at /learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:46:17
+    at process (/learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:173:43)
+    at ondir (/learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:188:17)
+    at load (/learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:69:43)
+    at onex (/learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:92:31)
+    at /learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:22:47
+    at Object.oncomplete (fs.js:107:15)
+):
+    4:     <title>LearnReactOnRails</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:   </head>
+   10: 
+  
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__4196298436055572035_70188226581800'
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (6.2ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.0ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (43.1ms)
+Started GET "/users/show" for 192.168.99.1 at 2016-08-20 07:03:02 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"show"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.8ms)
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-zy8k0o" -
+Completed 500  in 79914ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Error while running `/learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-zy8k0o" -`:
+
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: Cannot find module 'react-dom' from '/learn_react_on_rails/app/assets/javascripts'
+    at /learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:46:17
+    at process (/learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:173:43)
+    at ondir (/learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:188:17)
+    at load (/learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:69:43)
+    at onex (/learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:92:31)
+    at /learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:22:47
+    at Object.oncomplete (fs.js:107:15)
+):
+    4:     <title>LearnReactOnRails</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:   </head>
+   10: 
+  
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__4196298436055572035_70188295314700'
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (5.0ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (36.4ms)
+Started GET "/users/show" for 192.168.99.1 at 2016-08-20 07:04:23 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"show"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (1.0ms)
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1jqf8nn" -
+Completed 500  in 75919ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Error while running `/learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1jqf8nn" -`:
+
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: Cannot find module 'react-dom' from '/learn_react_on_rails/app/assets/javascripts'
+    at /learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:46:17
+    at process (/learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:173:43)
+    at ondir (/learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:188:17)
+    at load (/learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:69:43)
+    at onex (/learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:92:31)
+    at /learn_react_on_rails/node_modules/browserify/node_modules/resolve/lib/async.js:22:47
+    at Object.oncomplete (fs.js:107:15)
+):
+    4:     <title>LearnReactOnRails</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:   </head>
+   10: 
+  
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__4196298436055572035_70188293880540'
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (6.2ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.1ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (46.4ms)
+Started GET "/" for 192.168.99.1 at 2016-08-20 07:11:20 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.8ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb (10.5ms)
+Completed 200 OK in 64ms (Views: 38.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.99.1 at 2016-08-20 07:11:21 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb (5.2ms)
+Completed 200 OK in 22ms (Views: 10.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.99.1 at 2016-08-20 07:11:22 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb (5.2ms)
+Completed 200 OK in 17ms (Views: 11.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tests" for 192.168.99.1 at 2016-08-20 07:11:25 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by TestsController#index as HTML
+  Rendering tests/index.html.erb within layouts/application
+  [1m[36mTest Load (0.7ms)[0m  [1m[34mSELECT "tests".* FROM "tests"[0m
+  Rendered tests/index.html.erb within layouts/application (17.4ms)
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-cyjir4" -
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1qr7ndf" -
+Started GET "/users/show" for 192.168.99.1 at 2016-08-20 07:13:24 +0000
+Cannot render console from 192.168.99.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-qiw3r3" -
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-15ply8l" -
+Started GET "/users/show" for 192.168.99.1 at 2016-08-20 07:16:15 +0000
+Started GET "/users/show" for 192.168.99.1 at 2016-08-20 07:16:15 +0000
+  [1m[36mActiveRecord::SchemaMigration Load (1.0ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (10.9ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"show"}
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"show"}
+  Rendering users/show.html.erb within layouts/application
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (22.4ms)
+  Rendered users/show.html.erb within layouts/application (2.4ms)
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-bzbpbi" -
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-12pn6au" -
+Started GET "/" for 192.168.99.1 at 2016-08-20 07:16:18 +0000
+Started GET "/" for 192.168.99.1 at 2016-08-20 07:19:57 +0000
+  [1m[36mActiveRecord::SchemaMigration Load (0.8ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb (13.3ms)
+Completed 200 OK in 74ms (Views: 39.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.99.1 at 2016-08-20 07:19:58 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb (3.5ms)
+Completed 200 OK in 15ms (Views: 10.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.99.1 at 2016-08-20 07:19:58 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb (3.4ms)
+Completed 200 OK in 18ms (Views: 10.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tests" for 192.168.99.1 at 2016-08-20 07:20:14 +0000
+Processing by TestsController#index as HTML
+  Rendering tests/index.html.erb within layouts/application
+  [1m[36mTest Load (1.1ms)[0m  [1m[34mSELECT "tests".* FROM "tests"[0m
+  Rendered tests/index.html.erb within layouts/application (18.3ms)
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1ca9boj" -
+Started GET "/" for 192.168.99.1 at 2016-08-20 07:21:24 +0000
+  [1m[36mActiveRecord::SchemaMigration Load (0.7ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb (16.2ms)
+Completed 200 OK in 68ms (Views: 39.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/show" for 192.168.99.1 at 2016-08-20 07:21:29 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"show"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (14.4ms)
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1u5m2zi" -
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-pysn9g" -
+Started GET "/" for 192.168.99.1 at 2016-08-20 07:25:27 +0000
+  [1m[36mActiveRecord::SchemaMigration Load (0.8ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb (11.4ms)
+Completed 200 OK in 69ms (Views: 39.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/show" for 192.168.99.1 at 2016-08-20 07:26:01 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"show"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (12.0ms)
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-zsoftu" -
+Started GET "/" for 192.168.99.1 at 2016-08-20 07:27:54 +0000
+  [1m[36mActiveRecord::SchemaMigration Load (0.8ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb (12.9ms)
+Completed 200 OK in 63ms (Views: 39.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.99.1 at 2016-08-20 07:27:56 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb (11.7ms)
+Completed 200 OK in 27ms (Views: 18.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.99.1 at 2016-08-20 07:27:56 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb (4.0ms)
+Completed 200 OK in 17ms (Views: 10.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/show" for 192.168.99.1 at 2016-08-20 07:28:03 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"show"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (13.7ms)
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-q68v4p" -
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-sivow9" -
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1pjne8a" -
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1qutmym" -
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1p0m4n" -
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1smuvmo" -
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-gz80ub" -
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-nyq6s3" -
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1eitydg" -
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-fab8lq" -
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-12sdoae" -
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1v51l60" -
+Completed 200 OK in 760153ms (Views: 760121.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/show" for 192.168.99.1 at 2016-08-20 07:40:45 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"show"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 1193ms (Views: 1049.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/show" for 192.168.99.1 at 2016-08-20 07:40:46 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"show"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 521ms (Views: 494.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tests" for 192.168.99.1 at 2016-08-20 07:44:00 +0000
+Processing by TestsController#index as HTML
+  Rendering tests/index.html.erb within layouts/application
+  [1m[36mTest Load (1.1ms)[0m  [1m[34mSELECT "tests".* FROM "tests"[0m
+  Rendered tests/index.html.erb within layouts/application (10.8ms)
+Completed 200 OK in 521ms (Views: 464.4ms | ActiveRecord: 3.7ms)
+
+
+Started GET "/tests" for 192.168.99.1 at 2016-08-20 07:44:01 +0000
+Processing by TestsController#index as HTML
+  Rendering tests/index.html.erb within layouts/application
+  [1m[36mTest Load (0.9ms)[0m  [1m[34mSELECT "tests".* FROM "tests"[0m
+  Rendered tests/index.html.erb within layouts/application (6.6ms)
+Completed 200 OK in 452ms (Views: 397.7ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/tests" for 192.168.99.1 at 2016-08-20 07:44:02 +0000
+Processing by TestsController#index as HTML
+  Rendering tests/index.html.erb within layouts/application
+  [1m[36mTest Load (0.7ms)[0m  [1m[34mSELECT "tests".* FROM "tests"[0m
+  Rendered tests/index.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 415ms (Views: 367.7ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/users/show" for 192.168.99.1 at 2016-08-20 07:44:19 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"show"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 433ms (Views: 407.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/show" for 192.168.99.1 at 2016-08-20 07:44:20 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"show"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 469ms (Views: 448.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/show" for 192.168.99.1 at 2016-08-20 07:44:20 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"show"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 436ms (Views: 417.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/1" for 192.168.99.1 at 2016-08-20 07:45:30 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 435ms (Views: 413.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/1" for 192.168.99.1 at 2016-08-20 07:45:31 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 402ms (Views: 370.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/1" for 192.168.99.1 at 2016-08-20 07:45:31 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 341ms (Views: 323.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/" for 192.168.99.1 at 2016-08-20 07:45:34 +0000
+  
+ActionController::RoutingError (No route matches [GET] "/users"):
+  
+actionpack (5.0.0) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+rack-contrib (1.2.0) lib/rack/contrib/response_headers.rb:17:in `call'
+meta_request (0.4.0) lib/meta_request/middlewares/headers.rb:16:in `call'
+web-console (3.3.1) lib/web_console/middleware.rb:131:in `call_app'
+web-console (3.3.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.3.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.3.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.0) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `block in tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `tagged'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.1.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.0) lib/rails/engine.rb:522:in `call'
+puma (3.6.0) lib/puma/configuration.rb:225:in `call'
+puma (3.6.0) lib/puma/server.rb:578:in `handle_request'
+puma (3.6.0) lib/puma/server.rb:415:in `process_client'
+puma (3.6.0) lib/puma/server.rb:275:in `block in run'
+puma (3.6.0) lib/puma/thread_pool.rb:116:in `block in spawn_thread'
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.2ms)
+  Rendered collection of /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb [9 times] (12.7ms)
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (42.1ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (101.7ms)
+Started GET "/users/" for 192.168.99.1 at 2016-08-20 07:45:34 +0000
+  
+ActionController::RoutingError (No route matches [GET] "/users"):
+  
+actionpack (5.0.0) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+rack-contrib (1.2.0) lib/rack/contrib/response_headers.rb:17:in `call'
+meta_request (0.4.0) lib/meta_request/middlewares/headers.rb:16:in `call'
+web-console (3.3.1) lib/web_console/middleware.rb:131:in `call_app'
+web-console (3.3.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.3.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.3.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.0) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `block in tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `tagged'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.1.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.0) lib/rails/engine.rb:522:in `call'
+puma (3.6.0) lib/puma/configuration.rb:225:in `call'
+puma (3.6.0) lib/puma/server.rb:578:in `handle_request'
+puma (3.6.0) lib/puma/server.rb:415:in `process_client'
+puma (3.6.0) lib/puma/server.rb:275:in `block in run'
+puma (3.6.0) lib/puma/thread_pool.rb:116:in `block in spawn_thread'
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.3ms)
+  Rendered collection of /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb [9 times] (4.4ms)
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.4ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (56.8ms)
+Started GET "/users/" for 192.168.99.1 at 2016-08-20 07:45:35 +0000
+  
+ActionController::RoutingError (No route matches [GET] "/users"):
+  
+actionpack (5.0.0) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+rack-contrib (1.2.0) lib/rack/contrib/response_headers.rb:17:in `call'
+meta_request (0.4.0) lib/meta_request/middlewares/headers.rb:16:in `call'
+web-console (3.3.1) lib/web_console/middleware.rb:131:in `call_app'
+web-console (3.3.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.3.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.3.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.0) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `block in tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `tagged'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.1.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.0) lib/rails/engine.rb:522:in `call'
+puma (3.6.0) lib/puma/configuration.rb:225:in `call'
+puma (3.6.0) lib/puma/server.rb:578:in `handle_request'
+puma (3.6.0) lib/puma/server.rb:415:in `process_client'
+puma (3.6.0) lib/puma/server.rb:275:in `block in run'
+puma (3.6.0) lib/puma/thread_pool.rb:116:in `block in spawn_thread'
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendered collection of /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb [9 times] (4.7ms)
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.3ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (55.0ms)
+Started GET "/users/2" for 192.168.99.1 at 2016-08-20 07:45:38 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"2"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 363ms (Views: 338.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/2" for 192.168.99.1 at 2016-08-20 07:45:39 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"2"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 489ms (Views: 452.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/2" for 192.168.99.1 at 2016-08-20 07:45:39 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"2"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 299ms (Views: 282.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/3" for 192.168.99.1 at 2016-08-20 07:45:43 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"3"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 341ms (Views: 322.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/3" for 192.168.99.1 at 2016-08-20 07:45:43 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"3"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 367ms (Views: 337.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/3" for 192.168.99.1 at 2016-08-20 07:45:44 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"3"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 416ms (Views: 392.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/4" for 192.168.99.1 at 2016-08-20 07:45:45 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"4"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 352ms (Views: 332.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/4" for 192.168.99.1 at 2016-08-20 07:45:45 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"4"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 369ms (Views: 340.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/4" for 192.168.99.1 at 2016-08-20 07:45:46 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"4"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 361ms (Views: 344.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/1" for 192.168.99.1 at 2016-08-20 07:45:49 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 297ms (Views: 278.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/1" for 192.168.99.1 at 2016-08-20 07:45:49 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 401ms (Views: 376.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/1" for 192.168.99.1 at 2016-08-20 07:45:50 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 353ms (Views: 326.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.99.1 at 2016-08-20 07:46:31 +0000
+  [1m[36mActiveRecord::SchemaMigration Load (0.8ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb (9.9ms)
+Completed 200 OK in 65ms (Views: 35.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.99.1 at 2016-08-20 07:46:32 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb (4.0ms)
+Completed 200 OK in 21ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.99.1 at 2016-08-20 07:46:32 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb (4.3ms)
+Completed 200 OK in 18ms (Views: 13.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tests" for 192.168.99.1 at 2016-08-20 07:46:37 +0000
+Processing by TestsController#index as HTML
+  Rendering tests/index.html.erb within layouts/application
+  [1m[36mTest Load (0.6ms)[0m  [1m[34mSELECT "tests".* FROM "tests"[0m
+  Rendered tests/index.html.erb within layouts/application (19.1ms)
+Completed 200 OK in 1527ms (Views: 1462.6ms | ActiveRecord: 2.1ms)
+
+
+Started GET "/tests" for 192.168.99.1 at 2016-08-20 07:46:39 +0000
+Processing by TestsController#index as HTML
+  Rendering tests/index.html.erb within layouts/application
+  [1m[36mTest Load (0.5ms)[0m  [1m[34mSELECT "tests".* FROM "tests"[0m
+  Rendered tests/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 500ms (Views: 468.0ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/tests" for 192.168.99.1 at 2016-08-20 07:46:40 +0000
+Processing by TestsController#index as HTML
+  Rendering tests/index.html.erb within layouts/application
+  [1m[36mTest Load (0.4ms)[0m  [1m[34mSELECT "tests".* FROM "tests"[0m
+  Rendered tests/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 482ms (Views: 463.4ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/users/1" for 192.168.99.1 at 2016-08-20 07:46:47 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 412ms (Views: 393.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/1" for 192.168.99.1 at 2016-08-20 07:46:47 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 364ms (Views: 340.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/1" for 192.168.99.1 at 2016-08-20 07:46:48 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 359ms (Views: 342.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/1" for 192.168.99.1 at 2016-08-20 08:37:06 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.7ms)
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-5yfzjy" -
+Started GET "/users/1" for 192.168.99.1 at 2016-08-20 08:37:26 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.8ms)
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1yxdfek" -
+Completed 500  in 72917ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Error while running `/learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-5yfzjy" -`:
+
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+SyntaxError: /learn_react_on_rails/app/assets/javascripts/components/components/User.js: Adjacent JSX elements must be wrapped in an enclosing tag (9:6)
+   7 |     return (
+   8 |       <h1>TEST</h1>
+>  9 |       <span>{user.name}</span>
+     |       ^
+  10 |     );
+  11 |   }
+  12 | }
+    at Parser.pp.raise (/learn_react_on_rails/node_modules/babelify/node_modules/babel-core/node_modules/babylon/lib/parser/location.js:22:13)
+    at Parser.pp.jsxParseElementAt (/learn_react_on_rails/node_modules/babelify/node_modules/babel-core/node_modules/babylon/lib/plugins/jsx/index.js:472:10)
+    at Parser.pp.jsxParseElement (/learn_react_on_rails/node_modules/babelify/node_modules/babel-core/node_modules/babylon/lib/plugins/jsx/index.js:483:15)
+    at Parser.parseExprAtom (/learn_react_on_rails/node_modules/babelify/node_modules/babel-core/node_modules/babylon/lib/plugins/jsx/index.js:16:21)
+    at Parser.pp.parseExprSubscripts (/learn_react_on_rails/node_modules/babelify/node_modules/babel-core/node_modules/babylon/lib/parser/expression.js:278:19)
+    at Parser.pp.parseMaybeUnary (/learn_react_on_rails/node_modules/babelify/node_modules/babel-core/node_modules/babylon/lib/parser/expression.js:258:19)
+    at Parser.pp.parseExprOps (/learn_react_on_rails/node_modules/babelify/node_modules/babel-core/node_modules/babylon/lib/parser/expression.js:188:19)
+    at Parser.pp.parseMaybeConditional (/learn_react_on_rails/node_modules/babelify/node_modules/babel-core/node_modules/babylon/lib/parser/expression.js:165:19)
+    at Parser.pp.parseMaybeAssign (/learn_react_on_rails/node_modules/babelify/node_modules/babel-core/node_modules/babylon/lib/parser/expression.js:128:19)
+    at Parser.parseMaybeAssign (/learn_react_on_rails/node_modules/babelify/node_modules/babel-core/node_modules/babylon/lib/plugins/flow.js:413:24)
+):
+     5:     <%= csrf_meta_tags %>
+     6: 
+     7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+     9:   </head>
+    10: 
+    11:   <body>
+  
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___1028881016277236623_70018004334480'
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (6.1ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.6ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.4ms)
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (47.9ms)
+Completed 500  in 70430ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Error while running `/learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1yxdfek" -`:
+
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+SyntaxError: /learn_react_on_rails/app/assets/javascripts/components/components/User.js: Adjacent JSX elements must be wrapped in an enclosing tag (9:6)
+   7 |     return (
+   8 |       <h1>TEST</h1>
+>  9 |       <span>{user.name}</span>
+     |       ^
+  10 |     );
+  11 |   }
+  12 | }
+    at Parser.pp.raise (/learn_react_on_rails/node_modules/babelify/node_modules/babel-core/node_modules/babylon/lib/parser/location.js:22:13)
+    at Parser.pp.jsxParseElementAt (/learn_react_on_rails/node_modules/babelify/node_modules/babel-core/node_modules/babylon/lib/plugins/jsx/index.js:472:10)
+    at Parser.pp.jsxParseElement (/learn_react_on_rails/node_modules/babelify/node_modules/babel-core/node_modules/babylon/lib/plugins/jsx/index.js:483:15)
+    at Parser.parseExprAtom (/learn_react_on_rails/node_modules/babelify/node_modules/babel-core/node_modules/babylon/lib/plugins/jsx/index.js:16:21)
+    at Parser.pp.parseExprSubscripts (/learn_react_on_rails/node_modules/babelify/node_modules/babel-core/node_modules/babylon/lib/parser/expression.js:278:19)
+    at Parser.pp.parseMaybeUnary (/learn_react_on_rails/node_modules/babelify/node_modules/babel-core/node_modules/babylon/lib/parser/expression.js:258:19)
+    at Parser.pp.parseExprOps (/learn_react_on_rails/node_modules/babelify/node_modules/babel-core/node_modules/babylon/lib/parser/expression.js:188:19)
+    at Parser.pp.parseMaybeConditional (/learn_react_on_rails/node_modules/babelify/node_modules/babel-core/node_modules/babylon/lib/parser/expression.js:165:19)
+    at Parser.pp.parseMaybeAssign (/learn_react_on_rails/node_modules/babelify/node_modules/babel-core/node_modules/babylon/lib/parser/expression.js:128:19)
+    at Parser.parseMaybeAssign (/learn_react_on_rails/node_modules/babelify/node_modules/babel-core/node_modules/babylon/lib/plugins/flow.js:413:24)
+):
+     5:     <%= csrf_meta_tags %>
+     6: 
+     7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+     9:   </head>
+    10: 
+    11:   <body>
+  
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___1028881016277236623_70017909563720'
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (5.2ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.8ms)
+  Rendering /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /usr/local/bundle/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (35.0ms)
+Started GET "/users/1" for 192.168.99.1 at 2016-08-20 08:39:48 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.8ms)
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-9f6fg4" -
+Started GET "/users/1" for 192.168.99.1 at 2016-08-20 08:40:08 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.7ms)
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-14h5uv8" -
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-zhq7mo" -
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-cw2isc" -
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-14sw83e" -
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1gemr1s" -
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1d75j01" -
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1kokk9q" -
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-asvqke" -
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-m3mi7a" -
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1sdzp48" -
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1o3hw55" -
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1c1veo5" -
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1bmcm9s" -
+Started GET "/users/1" for 192.168.99.1 at 2016-08-20 08:48:57 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.6ms)
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-144k6ac" -
+Started GET "/users/1" for 192.168.99.1 at 2016-08-20 08:49:40 +0000
+  [1m[36mActiveRecord::SchemaMigration Load (0.9ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (20.9ms)
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1it82ie" -
+Started GET "/users/1" for 192.168.99.1 at 2016-08-20 08:50:00 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (3.1ms)
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --list --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1h5g3ls" -
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-134nnl6" -
+Browserify: /learn_react_on_rails/node_modules/.bin/browserifyinc -t babelify --cachefile=/learn_react_on_rails/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/learn_react_on_rails/tmp/cache/browserify-rails/output20160820-1-1hl3adg" -
+Completed 200 OK in 152100ms (Views: 152055.5ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 151157ms (Views: 151128.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/1" for 192.168.99.1 at 2016-08-20 08:53:00 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 381ms (Views: 358.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/1" for 192.168.99.1 at 2016-08-20 08:53:00 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 1059ms (Views: 934.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tests" for 192.168.99.1 at 2016-08-20 08:55:31 +0000
+Processing by TestsController#index as HTML
+  Rendering tests/index.html.erb within layouts/application
+  [1m[36mTest Load (0.9ms)[0m  [1m[34mSELECT "tests".* FROM "tests"[0m
+  Rendered tests/index.html.erb within layouts/application (10.6ms)
+Completed 200 OK in 465ms (Views: 390.6ms | ActiveRecord: 4.3ms)
+
+
+Started GET "/tests" for 192.168.99.1 at 2016-08-20 08:55:32 +0000
+Processing by TestsController#index as HTML
+  Rendering tests/index.html.erb within layouts/application
+  [1m[36mTest Load (0.5ms)[0m  [1m[34mSELECT "tests".* FROM "tests"[0m
+  Rendered tests/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 382ms (Views: 342.7ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/tests" for 192.168.99.1 at 2016-08-20 08:55:32 +0000
+Processing by TestsController#index as HTML
+  Rendering tests/index.html.erb within layouts/application
+  [1m[36mTest Load (0.9ms)[0m  [1m[34mSELECT "tests".* FROM "tests"[0m
+  Rendered tests/index.html.erb within layouts/application (4.3ms)
+Completed 200 OK in 342ms (Views: 324.4ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/users/1" for 192.168.99.1 at 2016-08-20 08:57:44 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 434ms (Views: 409.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/1" for 192.168.99.1 at 2016-08-20 08:57:44 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 347ms (Views: 326.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/1" for 192.168.99.1 at 2016-08-20 08:57:45 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 355ms (Views: 336.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/1" for 192.168.99.1 at 2016-08-20 08:58:00 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 320ms (Views: 298.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/1" for 192.168.99.1 at 2016-08-20 08:58:01 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 325ms (Views: 308.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/1" for 192.168.99.1 at 2016-08-20 09:06:04 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 396ms (Views: 360.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/1" for 192.168.99.1 at 2016-08-20 09:09:10 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 586ms (Views: 566.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/1" for 192.168.99.1 at 2016-08-20 09:09:31 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 443ms (Views: 418.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/1" for 192.168.99.1 at 2016-08-20 09:10:11 +0000
+  [1m[36mActiveRecord::SchemaMigration Load (0.7ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (22.7ms)
+Completed 200 OK in 2345ms (Views: 2301.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/1" for 192.168.99.1 at 2016-08-20 09:12:22 +0000
+  [1m[36mActiveRecord::SchemaMigration Load (0.7ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (20.9ms)
+Completed 200 OK in 1727ms (Views: 1690.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/1&name=hashimoto" for 192.168.99.1 at 2016-08-20 09:12:35 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1&name=hashimoto"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 328ms (Views: 309.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/1&name=hashimoto" for 192.168.99.1 at 2016-08-20 09:12:36 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1&name=hashimoto"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 415ms (Views: 383.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/1&name=hashimoto" for 192.168.99.1 at 2016-08-20 09:12:36 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1&name=hashimoto"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 424ms (Views: 381.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/1?name=hashimoto" for 192.168.99.1 at 2016-08-20 09:13:20 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"name"=>"hashimoto", "id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 398ms (Views: 378.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/1?name=hashimoto" for 192.168.99.1 at 2016-08-20 09:13:20 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"name"=>"hashimoto", "id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 406ms (Views: 371.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/1?name=hashimoto" for 192.168.99.1 at 2016-08-20 09:13:21 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"name"=>"hashimoto", "id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 356ms (Views: 341.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.99.1 at 2016-08-26 14:26:51 +0000
+  [1m[36mActiveRecord::SchemaMigration Load (4.1ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb (12.8ms)
+Completed 200 OK in 70ms (Views: 42.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.99.1 at 2016-08-26 14:26:53 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb (3.4ms)
+Completed 200 OK in 12ms (Views: 7.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.99.1 at 2016-08-26 14:26:53 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb (5.0ms)
+Completed 200 OK in 15ms (Views: 9.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tests" for 192.168.99.1 at 2016-08-26 14:26:59 +0000
+Processing by TestsController#index as HTML
+  Rendering tests/index.html.erb within layouts/application
+  [1m[36mTest Load (2.6ms)[0m  [1m[34mSELECT "tests".* FROM "tests"[0m
+  Rendered tests/index.html.erb within layouts/application (24.0ms)
+Completed 200 OK in 1618ms (Views: 1563.9ms | ActiveRecord: 5.0ms)
+
+
+Started GET "/tests" for 192.168.99.1 at 2016-08-26 14:27:01 +0000
+Processing by TestsController#index as HTML
+  Rendering tests/index.html.erb within layouts/application
+  [1m[36mTest Load (24.6ms)[0m  [1m[34mSELECT "tests".* FROM "tests"[0m
+  Rendered tests/index.html.erb within layouts/application (66.1ms)
+Completed 200 OK in 1128ms (Views: 1014.5ms | ActiveRecord: 24.6ms)
+
+
+Started GET "/tests" for 192.168.99.1 at 2016-08-26 14:27:02 +0000
+Processing by TestsController#index as HTML
+  Rendering tests/index.html.erb within layouts/application
+  [1m[36mTest Load (0.6ms)[0m  [1m[34mSELECT "tests".* FROM "tests"[0m
+  Rendered tests/index.html.erb within layouts/application (4.3ms)
+Completed 200 OK in 338ms (Views: 313.5ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/tests" for 192.168.99.1 at 2016-08-26 14:27:21 +0000
+Processing by TestsController#index as HTML
+  Rendering tests/index.html.erb within layouts/application
+  [1m[36mTest Load (0.7ms)[0m  [1m[34mSELECT "tests".* FROM "tests"[0m
+  Rendered tests/index.html.erb within layouts/application (7.1ms)
+Completed 200 OK in 429ms (Views: 396.1ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/__meta_request/03bd19e6-5a76-4544-a072-f78394ad87a8.json" for 192.168.99.1 at 2016-08-26 14:27:23 +0000
+Started GET "/users/1" for 192.168.99.1 at 2016-08-26 14:27:45 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 372ms (Views: 344.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/1" for 192.168.99.1 at 2016-08-26 14:27:45 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+Started GET "/__meta_request/23fe5986-40eb-413e-a05f-94a8d261288e.json" for 192.168.99.1 at 2016-08-26 14:27:45 +0000
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 434ms (Views: 405.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/1" for 192.168.99.1 at 2016-08-26 14:27:46 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 379ms (Views: 360.6ms | ActiveRecord: 0.0ms)
+
+
